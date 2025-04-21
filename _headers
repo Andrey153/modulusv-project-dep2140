@@ -1,0 +1,20 @@
+/*
+  Content-Encoding: br
+  Content-Type: application/javascript
+*.br
+  Content-Encoding: br
+*.css.br
+  Content-Type: text/css
+  Content-Encoding: br
+*.js.br
+  Content-Type: application/javascript
+  Content-Encoding: br
+*.html.br
+  Content-Type: text/html
+  Content-Encoding: br
+*.json.br
+  Content-Type: application/json
+  Content-Encoding: br
+*.svg.br
+  Content-Type: image/svg+xml
+  Content-Encoding: br

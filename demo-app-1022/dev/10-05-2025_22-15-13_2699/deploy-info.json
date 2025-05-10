@@ -1,0 +1,72 @@
+{
+  "packageName": "demo-app-1022",
+  "packageVersion": "1.0.1",
+  "buildDate": "2025-05-10T20:14:44.257Z",
+  "totalFiles": 10,
+  "totalOriginalSize": 246231,
+  "totalOriginalHash": "7d9ae0850a88c71c6b375dfd003afafe5150e4c444a51da2d440105eea104587",
+  "totalCompressedSize": 63455,
+  "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
+  "files": [
+    {
+      "name": "assets/index-CFQJ-NZ_.css",
+      "originalSize": 15754,
+      "originalHash": "1c8a2325adec0d7fed225f06bdc25a547560343e55248c58d198688aea275afa",
+      "compressedSize": 2577
+    },
+    {
+      "name": "assets/index.BKiQ_xuU.js",
+      "originalSize": 70448,
+      "originalHash": "637d292901929ed54364c01df6aa58cd6cf328c1182fcb7136fd908ea4da483b",
+      "compressedSize": 14814
+    },
+    {
+      "name": "assets/vendor-Bz76Vzhu.js",
+      "originalSize": 139483,
+      "originalHash": "15aa09cc0dd7725c5d487d2f7151fa99642ae1995b265a68e82c9ab08ec57128",
+      "compressedSize": 39035
+    },
+    {
+      "name": "deploy-info.json",
+      "originalSize": 2331,
+      "originalHash": "bda1865bc9a7f8fa069b8f535fef69193c916edb38d7602d4bba55097b0f89fb",
+      "compressedSize": 821
+    },
+    {
+      "name": "icon.svg",
+      "originalSize": 669,
+      "originalHash": "a3162ee0842bc140ac637c368bb017c68d5a361f9cbf6f414f509e2e2db17fa5",
+      "compressedSize": 338
+    },
+    {
+      "name": "index.html",
+      "originalSize": 913,
+      "originalHash": "1c11e33afff121e657dd13f1d8cd77f9b697aa3cfc3d4157d6d3d4d10e246915",
+      "compressedSize": 351
+    },
+    {
+      "name": "manifest.webmanifest",
+      "originalSize": 344,
+      "originalHash": "bf350109d6d2d4d80af5bfdd6dfca0451e4f6053f73be1c39d2314b6e3567030",
+      "compressedSize": 176
+    },
+    {
+      "name": "registerSW.js",
+      "originalSize": 136,
+      "originalHash": "e12c8db54e3cc247034427f2b661b305a78fea7e7cdec1eac179fecec3da0fc7",
+      "compressedSize": 90
+    },
+    {
+      "name": "sw.js",
+      "originalSize": 1079,
+      "originalHash": "8ddc2613ec1b2948280e14354d9d23d24d76a14f85cd11b0ddc582292818343d",
+      "compressedSize": 579
+    },
+    {
+      "name": "workbox-7ee6f867.js",
+      "originalSize": 15074,
+      "originalHash": "a6d8881682a3c0ed9dc6d7e4d590e20e244f1800d35048938f250eb82f1608e6",
+      "compressedSize": 4674
+    }
+  ]
+}

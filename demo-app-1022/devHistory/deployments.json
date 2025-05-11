@@ -1,5 +1,138 @@
 [
   {
+    "name": "2025-05-11_17-40-16_500bad",
+    "timestamp": "2025-05-11T15:40:16.717Z",
+    "path": "./2025-05-11_17-40-16_500bad/",
+    "info": {
+      "packageName": "demo-app-1022",
+      "packageVersion": "1.0.1",
+      "buildDate": "2025-05-11T15:40:10.660Z",
+      "totalFiles": 10,
+      "totalOriginalSize": 247839,
+      "totalOriginalHash": "be3f024922d6332268de4b56cdc1327ee84277a351f3039962d037991b500bad",
+      "totalCompressedSize": 63570,
+      "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
+      "gitInfo": {
+        "hasUncommittedChanges": true,
+        "gitBranch": "main",
+        "gitHash": "0be77bbfe61fa1594e0cb117d3d89fa0e66a364a",
+        "gitTag": "''",
+        "gitHistory": [
+          {
+            "hash": "0be77bbfe61fa1594e0cb117d3d89fa0e66a364a",
+            "message": "feat: Remove applicationInfo.json and comment out unused fields in ApplicationInfo interfaces to clean up code",
+            "author": "-",
+            "date": "2025-05-11 13:04:47 +0200",
+            "changes": {
+              "added": 29,
+              "deleted": 7,
+              "modified": 3
+            }
+          },
+          {
+            "hash": "b6d64823b17b7bd522d3b5c06305bf9593972354",
+            "message": "feat: Remove deploy-info and applicationInfo JSON files to streamline project structure",
+            "author": "-",
+            "date": "2025-05-11 12:13:22 +0200",
+            "changes": {
+              "added": 0,
+              "deleted": 332,
+              "modified": 1
+            }
+          },
+          {
+            "hash": "ff3c46d40b907c89d5895edbe4b8fc97def40943",
+            "message": "feat: Update deploy info with new build details and Git history, and remove unused .gitignore file",
+            "author": "-",
+            "date": "2025-05-11 12:06:35 +0200",
+            "changes": {
+              "added": 146,
+              "deleted": 53,
+              "modified": 3
+            }
+          },
+          {
+            "hash": "73a26c7d1cccf4ef9da317e575075d82b9ce2bad",
+            "message": "feat: Refactor Git information retrieval in createDeployInfo to use createGitInfo and update field names",
+            "author": "-",
+            "date": "2025-05-11 12:01:39 +0200",
+            "changes": {
+              "added": 24,
+              "deleted": 14,
+              "modified": 0
+            }
+          },
+          {
+            "hash": "d5cc4a5e853d4c8a3046d25a64a183f723ff28ca",
+            "message": "feat: Update deploy info with new build details and remove unnecessary file compression",
+            "author": "-",
+            "date": "2025-05-11 11:09:42 +0200",
+            "changes": {
+              "added": 29,
+              "deleted": 29,
+              "modified": 3
+            }
+          },
+          {
+            "hash": "a69035008a3a826e0d6fbde6678ea75c1a33aeab",
+            "message": "feat: Enhance GitHub Pages deployment script with build selection and improved error handling",
+            "author": "-",
+            "date": "2025-05-11 11:01:43 +0200",
+            "changes": {
+              "added": 1508,
+              "deleted": 254,
+              "modified": 7
+            }
+          },
+          {
+            "hash": "f546040515ef7e1367d426d425459c139690b1e7",
+            "message": "feat: Add Git information retrieval to deploy info including commit hash, date, and uncommitted files",
+            "author": "-",
+            "date": "2025-05-11 10:05:39 +0200",
+            "changes": {
+              "added": 83,
+              "deleted": 0,
+              "modified": 0
+            }
+          },
+          {
+            "hash": "3e463c4196959d3c1af0617ec3f571f225411781",
+            "message": "feat: Enhance layout styles with overscroll behavior and update deploy info with new file sizes and hashes",
+            "author": "-",
+            "date": "2025-05-10 22:59:48 +0200",
+            "changes": {
+              "added": 39,
+              "deleted": 24,
+              "modified": 4
+            }
+          },
+          {
+            "hash": "aed566c5d5cddcbb3021c72b88eae9ee3706cd02",
+            "message": "feat: Update HTML files to include user-scalable=no in viewport and change theme color to black feat: Add order property to ApplicationInfoPage registration feat: Enhance createDeployInfo script to copy deploy info and generate Brotli compressed files",
+            "author": "-",
+            "date": "2025-05-10 21:52:05 +0200",
+            "changes": {
+              "added": 59,
+              "deleted": 10,
+              "modified": 5
+            }
+          },
+          {
+            "hash": "4e4cc2bce78379b4c4a12e2138e39d7a811ff156",
+            "message": "feat: Add reload button to AboutPage for refreshing the application",
+            "author": "-",
+            "date": "2025-05-10 21:20:31 +0200",
+            "changes": {
+              "added": 20,
+              "deleted": 0,
+              "modified": 0
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
     "name": "2025-05-11_13-05-48_c6dfde",
     "timestamp": "2025-05-11T11:05:48.298Z",
     "path": "./2025-05-11_13-05-48_c6dfde/",

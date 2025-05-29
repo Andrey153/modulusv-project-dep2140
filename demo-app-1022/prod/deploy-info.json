@@ -1,18 +1,95 @@
 {
   "packageName": "demo-app-1022",
   "packageVersion": "1.0.1",
-  "buildDate": "2025-05-11T19:27:32.800Z",
+  "buildDate": "2025-05-29T18:56:28.921Z",
   "totalFiles": 10,
-  "totalOriginalSize": 247640,
-  "totalOriginalHash": "6c5803726246f9671f65117e644f6ae451cf1e4fa7d1678cd288ac66c391b41b",
-  "totalCompressedSize": 63515,
+  "totalOriginalSize": 273971,
+  "totalOriginalHash": "bb8b8f4e4b4f6b072b4b5d7002b9dca36cf0512485afae39d8972952aebc796c",
+  "totalCompressedSize": 67464,
   "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
   "gitInfo": {
     "numberOfUncommittedFiles": 0,
     "gitBranch": "main",
-    "gitHash": "10188b7924479511b67c84964b039e3b9b3ff9bc",
+    "gitHash": "c3add1e61e67c0940213fcdc757d7be5591e07d8",
     "gitTag": "''",
     "gitHistory": [
+      {
+        "hash": "c3add1e61e67c0940213fcdc757d7be5591e07d8",
+        "message": "feat: add debug locale handling in locales model and mere base on English",
+        "author": "-",
+        "date": "2025-05-29 20:45:44 +0200",
+        "changes": {
+          "added": 115,
+          "deleted": 20,
+          "modified": 3
+        }
+      },
+      {
+        "hash": "6c319fee1f9f7caa697683220f32e675e269b2c3",
+        "message": "feat: Implement menu toggle functionality and context management for responsive layouts",
+        "author": "-",
+        "date": "2025-05-29 19:19:21 +0200",
+        "changes": {
+          "added": 407,
+          "deleted": 24,
+          "modified": 6
+        }
+      },
+      {
+        "hash": "b92816550a25ae857edd6098f7b17e27c6219b1e",
+        "message": "feat: Implement device-specific HomePage components and enhance navigation model for dynamic view selection based on device type",
+        "author": "-",
+        "date": "2025-05-29 18:01:48 +0200",
+        "changes": {
+          "added": 485,
+          "deleted": 54,
+          "modified": 2
+        }
+      },
+      {
+        "hash": "92848fb469a01e176c2248cca8eca1c6048fce97",
+        "message": "fix: Clarify instruction for comment section requirements in basic-mandatory.instructions.md",
+        "author": "-",
+        "date": "2025-05-29 17:30:33 +0200",
+        "changes": {
+          "added": 1,
+          "deleted": 1,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "ca264db5816f8953e0b9c1eebf837ebf32746b69",
+        "message": "feat: Add Test Page for Deployment Information with dynamic fetching and display",
+        "author": "-",
+        "date": "2025-05-29 16:16:50 +0200",
+        "changes": {
+          "added": 1943,
+          "deleted": 848,
+          "modified": 7
+        }
+      },
+      {
+        "hash": "113a4518d01211b758844e0abbf241d674a16a7c",
+        "message": "feat: Add mandatory requirements for code changes in basic-mandatory.instructions.md",
+        "author": "-",
+        "date": "2025-05-11 23:15:28 +0200",
+        "changes": {
+          "added": 1,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "6be67d638e4dfda469bb95f0c8980a4f4e2464fe",
+        "message": "feat: Add user prompt for build selection in deployFromDevHistory script",
+        "author": "-",
+        "date": "2025-05-11 21:46:27 +0200",
+        "changes": {
+          "added": 93,
+          "deleted": 24,
+          "modified": 0
+        }
+      },
       {
         "hash": "10188b7924479511b67c84964b039e3b9b3ff9bc",
         "message": "feat: Implement deployFromDevHistory script for handling prod/test deployments from dev history",
@@ -45,98 +122,21 @@
           "deleted": 48,
           "modified": 1
         }
-      },
-      {
-        "hash": "7f344b060c797551bfad33e7f39a87df66b03f63",
-        "message": "feat: Add guidelines for code comments and structure in test.instructions.md",
-        "author": "-",
-        "date": "2025-05-11 19:24:27 +0200",
-        "changes": {
-          "added": 16,
-          "deleted": 0,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "24c760cb921958dca70dc8eb9c829c7d9607ede2",
-        "message": "feat: Reintroduce DeployInfo export in index.ts and update ModulusVCoreModel interface",
-        "author": "-",
-        "date": "2025-05-11 19:20:30 +0200",
-        "changes": {
-          "added": 3,
-          "deleted": 0,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "0de5f068e58b0932a93aed8fbc3acaf1dc99294f",
-        "message": "feat: Refactor ApplicationInfo interfaces and add DeployInfo type with Git information",
-        "author": "-",
-        "date": "2025-05-11 19:20:00 +0200",
-        "changes": {
-          "added": 41,
-          "deleted": 26,
-          "modified": 1
-        }
-      },
-      {
-        "hash": "0f7466ca9f45fa8449fbf109d124fd1e4742f47a",
-        "message": "feat: Update eligibility criteria for builds in deployToGitHubPages to check for uncommitted changes",
-        "author": "-",
-        "date": "2025-05-11 17:41:50 +0200",
-        "changes": {
-          "added": 7,
-          "deleted": 8,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "0be77bbfe61fa1594e0cb117d3d89fa0e66a364a",
-        "message": "feat: Remove applicationInfo.json and comment out unused fields in ApplicationInfo interfaces to clean up code",
-        "author": "-",
-        "date": "2025-05-11 13:04:47 +0200",
-        "changes": {
-          "added": 29,
-          "deleted": 7,
-          "modified": 3
-        }
-      },
-      {
-        "hash": "b6d64823b17b7bd522d3b5c06305bf9593972354",
-        "message": "feat: Remove deploy-info and applicationInfo JSON files to streamline project structure",
-        "author": "-",
-        "date": "2025-05-11 12:13:22 +0200",
-        "changes": {
-          "added": 0,
-          "deleted": 332,
-          "modified": 1
-        }
-      },
-      {
-        "hash": "ff3c46d40b907c89d5895edbe4b8fc97def40943",
-        "message": "feat: Update deploy info with new build details and Git history, and remove unused .gitignore file",
-        "author": "-",
-        "date": "2025-05-11 12:06:35 +0200",
-        "changes": {
-          "added": 146,
-          "deleted": 53,
-          "modified": 3
-        }
       }
     ]
   },
   "files": [
     {
-      "name": "assets/index-Cuk-57Eq.css",
-      "originalSize": 15934,
-      "originalHash": "db2b36175db4a538abf486644e09f46a11e05faef261ae509aa1271d92688039",
-      "compressedSize": 2597
+      "name": "assets/index-COVi1jXY.css",
+      "originalSize": 19189,
+      "originalHash": "edce2bc35aa08f34cf93871eebda1d2f6b584be4279b94b41b5a7d42f2930f13",
+      "compressedSize": 3146
     },
     {
-      "name": "assets/index.CJ56X4Jk.js",
-      "originalSize": 67914,
-      "originalHash": "407e7f07d5ccd39970323b1021ecd11f2ad29e04724fabb40cabb61a3d5cfce0",
-      "compressedSize": 14073
+      "name": "assets/index.DHJF2Jf9.js",
+      "originalSize": 91016,
+      "originalHash": "1c5c92fa00edc5e1a9269455ba837167c9a95ab3683cbf568782311f37b32943",
+      "compressedSize": 17476
     },
     {
       "name": "assets/vendor-Bz76Vzhu.js",
@@ -146,9 +146,9 @@
     },
     {
       "name": "deploy-info.json",
-      "originalSize": 6133,
-      "originalHash": "2e9d99b58a54ab7b9437d9100397d3da089b9f8d23362345cc04efcd6f613ed3",
-      "compressedSize": 1611
+      "originalSize": 6107,
+      "originalHash": "7995d99992d1323428907db0e0b8ef448b1a248e99467b7835208d8537697c46",
+      "compressedSize": 1609
     },
     {
       "name": "icon.svg",
@@ -159,8 +159,8 @@
     {
       "name": "index.html",
       "originalSize": 874,
-      "originalHash": "f00d56a26a8fbb53f6e16461119f7defcfabdcc3d1e0f1bc282c806df7c83fce",
-      "compressedSize": 338
+      "originalHash": "21e5da083c18602fa10c33bcf850ae1a5558fda45129d871f9d0de6e3eeaf185",
+      "compressedSize": 335
     },
     {
       "name": "manifest.webmanifest",
@@ -177,8 +177,8 @@
     {
       "name": "sw.js",
       "originalSize": 1079,
-      "originalHash": "853e47d53521ce0ef70713401f406824f46e1514408bdc7ff82c048e62e50050",
-      "compressedSize": 583
+      "originalHash": "f3756503d6b244438647efa33f4075a2608faf30dca80fa6551c674db0fdad7b",
+      "compressedSize": 585
     },
     {
       "name": "workbox-7ee6f867.js",

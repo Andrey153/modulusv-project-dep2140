@@ -1,0 +1,190 @@
+{
+  "packageName": "demo-app-1022",
+  "packageVersion": "1.0.1",
+  "buildDate": "2025-05-17T18:11:52.461Z",
+  "totalFiles": 10,
+  "totalOriginalSize": 249769,
+  "totalOriginalHash": "2245e2087d9d475f3a871971166f8506e5c906ea65151325325b71cdcc88239a",
+  "totalCompressedSize": 63888,
+  "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
+  "gitInfo": {
+    "numberOfUncommittedFiles": 5,
+    "gitBranch": "main",
+    "gitHash": "113a4518d01211b758844e0abbf241d674a16a7c",
+    "gitTag": "''",
+    "gitHistory": [
+      {
+        "hash": "113a4518d01211b758844e0abbf241d674a16a7c",
+        "message": "feat: Add mandatory requirements for code changes in basic-mandatory.instructions.md",
+        "author": "-",
+        "date": "2025-05-11 23:15:28 +0200",
+        "changes": {
+          "added": 1,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "6be67d638e4dfda469bb95f0c8980a4f4e2464fe",
+        "message": "feat: Add user prompt for build selection in deployFromDevHistory script",
+        "author": "-",
+        "date": "2025-05-11 21:46:27 +0200",
+        "changes": {
+          "added": 93,
+          "deleted": 24,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "10188b7924479511b67c84964b039e3b9b3ff9bc",
+        "message": "feat: Implement deployFromDevHistory script for handling prod/test deployments from dev history",
+        "author": "-",
+        "date": "2025-05-11 21:26:21 +0200",
+        "changes": {
+          "added": 718,
+          "deleted": 659,
+          "modified": 5
+        }
+      },
+      {
+        "hash": "dd210d499129e2fe4993f573fc2275dcb4c35711",
+        "message": "refactor: Improve DeployInfo and GitInfo interfaces for clarity and structure",
+        "author": "-",
+        "date": "2025-05-11 21:08:03 +0200",
+        "changes": {
+          "added": 39,
+          "deleted": 16,
+          "modified": 1
+        }
+      },
+      {
+        "hash": "d81f321c2e2831dbc9e52c6ed54be5929d06b4b4",
+        "message": "fix: Update comments and variable names for clarity in DeployInfo and GitHubDeployConfig",
+        "author": "-",
+        "date": "2025-05-11 19:37:49 +0200",
+        "changes": {
+          "added": 26,
+          "deleted": 48,
+          "modified": 1
+        }
+      },
+      {
+        "hash": "7f344b060c797551bfad33e7f39a87df66b03f63",
+        "message": "feat: Add guidelines for code comments and structure in test.instructions.md",
+        "author": "-",
+        "date": "2025-05-11 19:24:27 +0200",
+        "changes": {
+          "added": 16,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "24c760cb921958dca70dc8eb9c829c7d9607ede2",
+        "message": "feat: Reintroduce DeployInfo export in index.ts and update ModulusVCoreModel interface",
+        "author": "-",
+        "date": "2025-05-11 19:20:30 +0200",
+        "changes": {
+          "added": 3,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "0de5f068e58b0932a93aed8fbc3acaf1dc99294f",
+        "message": "feat: Refactor ApplicationInfo interfaces and add DeployInfo type with Git information",
+        "author": "-",
+        "date": "2025-05-11 19:20:00 +0200",
+        "changes": {
+          "added": 41,
+          "deleted": 26,
+          "modified": 1
+        }
+      },
+      {
+        "hash": "0f7466ca9f45fa8449fbf109d124fd1e4742f47a",
+        "message": "feat: Update eligibility criteria for builds in deployToGitHubPages to check for uncommitted changes",
+        "author": "-",
+        "date": "2025-05-11 17:41:50 +0200",
+        "changes": {
+          "added": 7,
+          "deleted": 8,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "0be77bbfe61fa1594e0cb117d3d89fa0e66a364a",
+        "message": "feat: Remove applicationInfo.json and comment out unused fields in ApplicationInfo interfaces to clean up code",
+        "author": "-",
+        "date": "2025-05-11 13:04:47 +0200",
+        "changes": {
+          "added": 29,
+          "deleted": 7,
+          "modified": 3
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "name": "assets/index-Bdg6302V.css",
+      "originalSize": 17364,
+      "originalHash": "38383d60884f10b6f113d87c3cc2d3516bf8008178555ead34b0ed09deb524f3",
+      "compressedSize": 2857
+    },
+    {
+      "name": "assets/index.9Z0LeDCS.js",
+      "originalSize": 68652,
+      "originalHash": "c95b5c48ef7f9b700b57a953ac5d12a6bbe65bac28facd7c47942b63adeae1c8",
+      "compressedSize": 14223
+    },
+    {
+      "name": "assets/vendor-Bz76Vzhu.js",
+      "originalSize": 139483,
+      "originalHash": "15aa09cc0dd7725c5d487d2f7151fa99642ae1995b265a68e82c9ab08ec57128",
+      "compressedSize": 39035
+    },
+    {
+      "name": "deploy-info.json",
+      "originalSize": 6094,
+      "originalHash": "0b381bc4a6e107200de3aded82110bfd405d4ed204968e5817b55acba34fb1fd",
+      "compressedSize": 1592
+    },
+    {
+      "name": "icon.svg",
+      "originalSize": 669,
+      "originalHash": "a3162ee0842bc140ac637c368bb017c68d5a361f9cbf6f414f509e2e2db17fa5",
+      "compressedSize": 338
+    },
+    {
+      "name": "index.html",
+      "originalSize": 874,
+      "originalHash": "339d6fe85ccb9f80ed6e87234417636a2e77e49ceb4c95b877c3b3c445a250bb",
+      "compressedSize": 327
+    },
+    {
+      "name": "manifest.webmanifest",
+      "originalSize": 344,
+      "originalHash": "bf350109d6d2d4d80af5bfdd6dfca0451e4f6053f73be1c39d2314b6e3567030",
+      "compressedSize": 176
+    },
+    {
+      "name": "registerSW.js",
+      "originalSize": 136,
+      "originalHash": "e12c8db54e3cc247034427f2b661b305a78fea7e7cdec1eac179fecec3da0fc7",
+      "compressedSize": 90
+    },
+    {
+      "name": "sw.js",
+      "originalSize": 1079,
+      "originalHash": "72e6ef66381dfc39e137573404363184db203b7b07c1f9e9f5bb43dc0c17e4ae",
+      "compressedSize": 576
+    },
+    {
+      "name": "workbox-7ee6f867.js",
+      "originalSize": 15074,
+      "originalHash": "a6d8881682a3c0ed9dc6d7e4d590e20e244f1800d35048938f250eb82f1608e6",
+      "compressedSize": 4674
+    }
+  ]
+}

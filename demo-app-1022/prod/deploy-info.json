@@ -1,18 +1,95 @@
 {
   "packageName": "demo-app-1022",
   "packageVersion": "1.0.1",
-  "buildDate": "2025-05-29T18:56:28.921Z",
+  "buildDate": "2025-06-07T16:33:41.660Z",
   "totalFiles": 10,
-  "totalOriginalSize": 273971,
-  "totalOriginalHash": "bb8b8f4e4b4f6b072b4b5d7002b9dca36cf0512485afae39d8972952aebc796c",
-  "totalCompressedSize": 67464,
+  "totalOriginalSize": 297459,
+  "totalOriginalHash": "c717f3337cf765968bb42dc4d7fd2f18eeef31748f81fee4ad68c296676879d6",
+  "totalCompressedSize": 73648,
   "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
   "gitInfo": {
     "numberOfUncommittedFiles": 0,
     "gitBranch": "main",
-    "gitHash": "c3add1e61e67c0940213fcdc757d7be5591e07d8",
+    "gitHash": "0ae04664f0f0f31376ab0fc688efd71ecd656e7b",
     "gitTag": "''",
     "gitHistory": [
+      {
+        "hash": "0ae04664f0f0f31376ab0fc688efd71ecd656e7b",
+        "message": "feat: Add demo-json-schema and json-auto-form dependencies with version links in pnpm-lock.yaml",
+        "author": "-",
+        "date": "2025-06-07 18:18:01 +0200",
+        "changes": {
+          "added": 80,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "f7f6543bd7f0bf4caa5b595fd48a0782e85556e9",
+        "message": "feat: Enhance Monaco Editor integration with dark theme support and styling adjustments",
+        "author": "-",
+        "date": "2025-06-07 18:11:42 +0200",
+        "changes": {
+          "added": 30,
+          "deleted": 1,
+          "modified": 1
+        }
+      },
+      {
+        "hash": "22b7189d27cbbb8059ad5713954c12bcb253a88b",
+        "message": "feat: Implement JSON Schema conversion utilities and tests",
+        "author": "-",
+        "date": "2025-06-07 18:03:03 +0200",
+        "changes": {
+          "added": 2104,
+          "deleted": 65,
+          "modified": 13
+        }
+      },
+      {
+        "hash": "593d5b90ade5fdf5ec4581eb3d13337cef4774aa",
+        "message": "feat: update layout and demo page styles for consistency and improved responsiveness",
+        "author": "-",
+        "date": "2025-06-07 17:18:00 +0200",
+        "changes": {
+          "added": 28,
+          "deleted": 9,
+          "modified": 3
+        }
+      },
+      {
+        "hash": "c82dcbef3985c311f946c9cb6475e0f7e520750e",
+        "message": "feat: add comprehensive JSON Schema Draft 04, 06, and 07 types and interfaces for validation",
+        "author": "-",
+        "date": "2025-06-07 15:43:37 +0200",
+        "changes": {
+          "added": 0,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "f5f08edb393686dde5879eb6f531d4ef9de804f7",
+        "message": "feat: add JSON Schema Draft 04, 06, and 07 types and interfaces for validation",
+        "author": "-",
+        "date": "2025-06-07 15:39:45 +0200",
+        "changes": {
+          "added": 749,
+          "deleted": 0,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "e24420820140bdafee61c2abf43873d1ab22d737",
+        "message": "feat: add demo-json-schema module with example JSON objects and schema generation functionality",
+        "author": "-",
+        "date": "2025-06-07 15:21:52 +0200",
+        "changes": {
+          "added": 515,
+          "deleted": 3,
+          "modified": 9
+        }
+      },
       {
         "hash": "c3add1e61e67c0940213fcdc757d7be5591e07d8",
         "message": "feat: add debug locale handling in locales model and mere base on English",
@@ -45,110 +122,33 @@
           "deleted": 54,
           "modified": 2
         }
-      },
-      {
-        "hash": "92848fb469a01e176c2248cca8eca1c6048fce97",
-        "message": "fix: Clarify instruction for comment section requirements in basic-mandatory.instructions.md",
-        "author": "-",
-        "date": "2025-05-29 17:30:33 +0200",
-        "changes": {
-          "added": 1,
-          "deleted": 1,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "ca264db5816f8953e0b9c1eebf837ebf32746b69",
-        "message": "feat: Add Test Page for Deployment Information with dynamic fetching and display",
-        "author": "-",
-        "date": "2025-05-29 16:16:50 +0200",
-        "changes": {
-          "added": 1943,
-          "deleted": 848,
-          "modified": 7
-        }
-      },
-      {
-        "hash": "113a4518d01211b758844e0abbf241d674a16a7c",
-        "message": "feat: Add mandatory requirements for code changes in basic-mandatory.instructions.md",
-        "author": "-",
-        "date": "2025-05-11 23:15:28 +0200",
-        "changes": {
-          "added": 1,
-          "deleted": 0,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "6be67d638e4dfda469bb95f0c8980a4f4e2464fe",
-        "message": "feat: Add user prompt for build selection in deployFromDevHistory script",
-        "author": "-",
-        "date": "2025-05-11 21:46:27 +0200",
-        "changes": {
-          "added": 93,
-          "deleted": 24,
-          "modified": 0
-        }
-      },
-      {
-        "hash": "10188b7924479511b67c84964b039e3b9b3ff9bc",
-        "message": "feat: Implement deployFromDevHistory script for handling prod/test deployments from dev history",
-        "author": "-",
-        "date": "2025-05-11 21:26:21 +0200",
-        "changes": {
-          "added": 718,
-          "deleted": 659,
-          "modified": 5
-        }
-      },
-      {
-        "hash": "dd210d499129e2fe4993f573fc2275dcb4c35711",
-        "message": "refactor: Improve DeployInfo and GitInfo interfaces for clarity and structure",
-        "author": "-",
-        "date": "2025-05-11 21:08:03 +0200",
-        "changes": {
-          "added": 39,
-          "deleted": 16,
-          "modified": 1
-        }
-      },
-      {
-        "hash": "d81f321c2e2831dbc9e52c6ed54be5929d06b4b4",
-        "message": "fix: Update comments and variable names for clarity in DeployInfo and GitHubDeployConfig",
-        "author": "-",
-        "date": "2025-05-11 19:37:49 +0200",
-        "changes": {
-          "added": 26,
-          "deleted": 48,
-          "modified": 1
-        }
       }
     ]
   },
   "files": [
     {
-      "name": "assets/index-COVi1jXY.css",
-      "originalSize": 19189,
-      "originalHash": "edce2bc35aa08f34cf93871eebda1d2f6b584be4279b94b41b5a7d42f2930f13",
-      "compressedSize": 3146
+      "name": "assets/index-2APrva0p.css",
+      "originalSize": 22392,
+      "originalHash": "843c688073a92f22838df76bcbd6c728a9976db4fd1836910e40701398715e73",
+      "compressedSize": 3759
     },
     {
-      "name": "assets/index.DHJF2Jf9.js",
-      "originalSize": 91016,
-      "originalHash": "1c5c92fa00edc5e1a9269455ba837167c9a95ab3683cbf568782311f37b32943",
-      "compressedSize": 17476
+      "name": "assets/index.8gjffJjL.js",
+      "originalSize": 111310,
+      "originalHash": "e2e5973014a6d7ef34e708cc9b06cde2b3c60dc953837466a860fa017d523066",
+      "compressedSize": 23027
     },
     {
-      "name": "assets/vendor-Bz76Vzhu.js",
+      "name": "assets/vendor-BFDhnaOv.js",
       "originalSize": 139483,
-      "originalHash": "15aa09cc0dd7725c5d487d2f7151fa99642ae1995b265a68e82c9ab08ec57128",
-      "compressedSize": 39035
+      "originalHash": "317ef6342ba1dacf2a535ab7ace52b917e4d7a97a4e42b8998d5b34fe9dc66ec",
+      "compressedSize": 39062
     },
     {
       "name": "deploy-info.json",
-      "originalSize": 6107,
-      "originalHash": "7995d99992d1323428907db0e0b8ef448b1a248e99467b7835208d8537697c46",
-      "compressedSize": 1609
+      "originalSize": 6098,
+      "originalHash": "4b2364f7976e8beec92936fce263dbf52e58f5173cf7b1e6897df75bd524b2da",
+      "compressedSize": 1603
     },
     {
       "name": "icon.svg",
@@ -159,8 +159,8 @@
     {
       "name": "index.html",
       "originalSize": 874,
-      "originalHash": "21e5da083c18602fa10c33bcf850ae1a5558fda45129d871f9d0de6e3eeaf185",
-      "compressedSize": 335
+      "originalHash": "73e87321e51f20c1de54bf5dc6c8eb774616291a8c2fd543d0333fa48f57a14d",
+      "compressedSize": 334
     },
     {
       "name": "manifest.webmanifest",
@@ -177,7 +177,7 @@
     {
       "name": "sw.js",
       "originalSize": 1079,
-      "originalHash": "f3756503d6b244438647efa33f4075a2608faf30dca80fa6551c674db0fdad7b",
+      "originalHash": "52e5a6937f2a40d4ffb4306177bd85a9ee29736cd52a52631d2a7b46c0113016",
       "compressedSize": 585
     },
     {

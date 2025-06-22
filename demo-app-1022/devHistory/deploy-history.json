@@ -1,5 +1,24 @@
 [
   {
+    "path": "2025-06-22_16-30-31_fdb6f0",
+    "deployInfoBasic": {
+      "packageName": "demo-app-1022",
+      "packageVersion": "1.0.1",
+      "buildDate": "2025-06-22T14:28:22.167Z",
+      "totalFiles": 10,
+      "totalOriginalSize": 525360,
+      "totalOriginalHash": "79c47d51337f325f94a4219f17aed9f7efa83a845ff920d2d8835ee7cbfdb6f0",
+      "totalCompressedSize": 108751,
+      "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
+      "gitInfo": {
+        "numberOfUncommittedFiles": 22,
+        "gitBranch": "main",
+        "gitHash": "081e153f9495f4b6134f4992cf5b5f7de09100f8",
+        "gitTag": "''"
+      }
+    }
+  },
+  {
     "path": "2025-06-07_18-36-11_6879d6",
     "deployInfoBasic": {
       "packageName": "demo-app-1022",

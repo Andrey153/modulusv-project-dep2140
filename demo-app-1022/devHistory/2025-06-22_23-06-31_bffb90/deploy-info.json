@@ -1,0 +1,171 @@
+{
+  "packageName": "demo-app-1022",
+  "packageVersion": "1.0.1",
+  "buildDate": "2025-06-22T21:02:14.191Z",
+  "totalFiles": 8,
+  "totalOriginalSize": 532038,
+  "totalOriginalHash": "25b238b1b77468cf60199365a4b074322f31743ee1be1ae8aba73b4c6fbffb90",
+  "totalCompressedSize": 0,
+  "githubPagesUrl": "https://Andrey153.github.io/modulusv-project-dep2140/demo-app-1022/",
+  "gitInfo": {
+    "numberOfUncommittedFiles": 21,
+    "gitBranch": "main",
+    "gitHash": "e692ea165c7eac6ce0614a3167bf6c2740418646",
+    "gitDate": "2025-06-22 23:01:36 +0200",
+    "gitTag": "''",
+    "gitHistory": [
+      {
+        "hash": "e692ea165c7eac6ce0614a3167bf6c2740418646",
+        "message": "feat: Add timezone and date information in PWA update notification and AboutPage",
+        "author": "-",
+        "date": "2025-06-22 23:01:36 +0200",
+        "changes": {
+          "added": 188,
+          "deleted": 39,
+          "modified": 5
+        }
+      },
+      {
+        "hash": "0b50eb8ea557db3a36ff70327b7961bf691beaa5",
+        "message": "feat: Add manual check for updates functionality",
+        "author": "-",
+        "date": "2025-06-22 21:41:42 +0200",
+        "changes": {
+          "added": 203,
+          "deleted": 140,
+          "modified": 5
+        }
+      },
+      {
+        "hash": "13c6dc92285ea4428d9905cefac0658785bc6f0e",
+        "message": "feat: Add PWA update notification component with localization support and integrate into AboutPage",
+        "author": "-",
+        "date": "2025-06-22 21:22:06 +0200",
+        "changes": {
+          "added": 697,
+          "deleted": 5,
+          "modified": 7
+        }
+      },
+      {
+        "hash": "fdc7f3fe84a49a5af43c89fbcf4ea887fe4179ff",
+        "message": "feat: Enhance AboutPage with localization and deploy-info.json integration",
+        "author": "-",
+        "date": "2025-06-22 20:36:27 +0200",
+        "changes": {
+          "added": 654,
+          "deleted": 227,
+          "modified": 4
+        }
+      },
+      {
+        "hash": "52fd71cea023791013385b8f8d23ed3821cb0260",
+        "message": "feat: Integrate deploy-info.json generation into service worker manifest",
+        "author": "-",
+        "date": "2025-06-22 19:40:40 +0200",
+        "changes": {
+          "added": 43,
+          "deleted": 1,
+          "modified": 1
+        }
+      },
+      {
+        "hash": "54d030afe27e2df2549c95fbfe169e2ea4fab329",
+        "message": "feat: Add gitDate field to GitInfo for last commit date",
+        "author": "-",
+        "date": "2025-06-22 17:24:06 +0200",
+        "changes": {
+          "added": 18,
+          "deleted": 9,
+          "modified": 2
+        }
+      },
+      {
+        "hash": "081e153f9495f4b6134f4992cf5b5f7de09100f8",
+        "message": "feat: Add LocaleSummaryStatistics component for locale comparison statistics",
+        "author": "-",
+        "date": "2025-06-22 16:03:29 +0200",
+        "changes": {
+          "added": 1081,
+          "deleted": 403,
+          "modified": 7
+        }
+      },
+      {
+        "hash": "5dc3a0c0835c9fe218bb4e51773691873617e987",
+        "message": "feat: Add locale comparison functionality",
+        "author": "-",
+        "date": "2025-06-22 13:40:25 +0200",
+        "changes": {
+          "added": 776,
+          "deleted": 0,
+          "modified": 4
+        }
+      },
+      {
+        "hash": "be0ad2aee220c1b2964b8ca58572c872ce3e37e1",
+        "message": "fix: Improve code readability",
+        "author": "-",
+        "date": "2025-06-22 11:18:16 +0200",
+        "changes": {
+          "added": 6,
+          "deleted": 2,
+          "modified": 0
+        }
+      },
+      {
+        "hash": "d2294f63db91ed41cd97514e1a3d7be348bb022c",
+        "message": "feat: Add utility function for merging locales and corresponding unit tests",
+        "author": "-",
+        "date": "2025-06-22 11:15:18 +0200",
+        "changes": {
+          "added": 348,
+          "deleted": 0,
+          "modified": 3
+        }
+      }
+    ]
+  },
+  "files": [
+    {
+      "name": "assets/index-2vJp_-w7.css",
+      "originalSize": 85937,
+      "originalHash": "d6dd8c2a5f1e83cbb804a4658b9aeeba37a2110c79626cfb00557856863789af"
+    },
+    {
+      "name": "assets/index.Bzbpvo-h.js",
+      "originalSize": 427567,
+      "originalHash": "c63d841de45c3a7da8dc2a3a8c849e8f162b5823f4ecc90dd33e7ad8d9678825"
+    },
+    {
+      "name": "assets/vendor-CMmhtoO5.js",
+      "originalSize": 11197,
+      "originalHash": "50172c118d62e0a644a311ae02ff7273b5aba9cdda07e7fd0d77ad4b18e27431"
+    },
+    {
+      "name": "deploy-info.json",
+      "originalSize": 5314,
+      "originalHash": "55457ee83fb47c9a5c75c6513d58ef8983bafb0307bb107317bd6afbe9832c43"
+    },
+    {
+      "name": "icon.svg",
+      "originalSize": 669,
+      "originalHash": "a3162ee0842bc140ac637c368bb017c68d5a361f9cbf6f414f509e2e2db17fa5"
+    },
+    {
+      "name": "index.html",
+      "originalSize": 874,
+      "originalHash": "0f12a9e9898b5d7e1104ed684c83152ee6df45bab1c495f63cb8f2204fadbc50"
+    },
+    {
+      "name": "manifest.webmanifest",
+      "originalSize": 344,
+      "originalHash": "bf350109d6d2d4d80af5bfdd6dfca0451e4f6053f73be1c39d2314b6e3567030"
+    },
+    {
+      "name": "registerSW.js",
+      "originalSize": 136,
+      "originalHash": "e12c8db54e3cc247034427f2b661b305a78fea7e7cdec1eac179fecec3da0fc7"
+    }
+  ]
+}
